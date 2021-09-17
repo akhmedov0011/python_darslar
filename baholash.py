@@ -8,5 +8,5 @@ def bahola(isimlar):
 talabalar = ["Shaxzod","fozil","sardor","Samiddin"]
 baholari = bahola(talabalar[:])
 print(baholari)
-print(talabalar)
+
         
